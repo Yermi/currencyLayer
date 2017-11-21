@@ -1,0 +1,188 @@
+c:\users\arielma\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+c:\users\arielma\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+c:\users\arielma\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+c:\users\arielma\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+c:\users\arielma\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+c:\users\arielma\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+c:\users\arielma\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+c:\users\arielma\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+c:\users\arielma\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+c:\users\arielma\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+c:\users\arielma\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+c:\users\arielma\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+c:\users\arielma\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+c:\users\arielma\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+c:\users\arielma\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Debug\BL.dll
+c:\users\arielma\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Debug\DAL.dll
+c:\users\arielma\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Debug\BL.pdb
+c:\users\arielma\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Debug\DAL.pdb
+c:\users\arielma\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Debug\BE.dll
+c:\users\arielma\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Debug\BE.pdb
+Z:\ArielMalka\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+Z:\ArielMalka\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+Z:\ArielMalka\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+Z:\ArielMalka\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+Z:\ArielMalka\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+Z:\ArielMalka\WpfApplication1\WpfApplication1\bin\Debug\BE.dll
+Z:\ArielMalka\WpfApplication1\WpfApplication1\bin\Debug\BL.dll
+Z:\ArielMalka\WpfApplication1\WpfApplication1\bin\Debug\DAL.dll
+Z:\ArielMalka\WpfApplication1\WpfApplication1\bin\Debug\BE.pdb
+Z:\ArielMalka\WpfApplication1\WpfApplication1\bin\Debug\BL.pdb
+Z:\ArielMalka\WpfApplication1\WpfApplication1\bin\Debug\DAL.pdb
+Z:\ArielMalka\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+Z:\ArielMalka\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+Z:\ArielMalka\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+Z:\ArielMalka\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+Z:\ArielMalka\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+Z:\ArielMalka\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+Z:\ArielMalka\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+Z:\ArielMalka\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+Z:\ArielMalka\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+D:\Ariel_projects\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+D:\Ariel_projects\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+D:\Ariel_projects\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+D:\Ariel_projects\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\BE.dll
+D:\Ariel_projects\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\BL.dll
+D:\Ariel_projects\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\DAL.dll
+D:\Ariel_projects\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\BE.pdb
+D:\Ariel_projects\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\BL.pdb
+D:\Ariel_projects\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\DAL.pdb
+D:\Ariel_projects\download\WpfApplication1\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+D:\Ariel_projects\download\WpfApplication1\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+D:\Ariel_projects\download\WpfApplication1\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+D:\Ariel_projects\download\WpfApplication1\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+D:\Ariel_projects\download\WpfApplication1\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+D:\Ariel_projects\download\WpfApplication1\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+D:\Ariel_projects\download\WpfApplication1\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+D:\Ariel_projects\download\WpfApplication1\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+D:\Ariel_projects\download\WpfApplication1\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+D:\Ariel_projects\download\WpfApplication1\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.CoreCompileInputs.cache
+D:\Ariel_projects\download\WpfApplication1\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+D:\Ariel_projects\download\WpfApplication1\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\BE.dll
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\BL.dll
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\EntityFramework.dll
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\DAL.dll
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\BE.pdb
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\BL.pdb
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\EntityFramework.xml
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\DAL.pdb
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\DevExpress.Data.v17.1.dll
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\DevExpress.Mvvm.v17.1.dll
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\DevExpress.Xpf.Core.v17.1.dll
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\DevExpress.Xpf.Grid.v17.1.Core.dll
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\DevExpress.Xpf.Grid.v17.1.dll
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\DevExpress.CodeParser.v17.1.dll
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\DevExpress.Data.v17.1.xml
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\DevExpress.Mvvm.v17.1.xml
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\DevExpress.Xpf.Core.v17.1.xml
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\DevExpress.Xpf.Grid.v17.1.xml
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\DevExpress.Xpf.Grid.v17.1.Core.xml
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\de\DevExpress.Xpf.Core.v17.1.resources.dll
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\es\DevExpress.Xpf.Core.v17.1.resources.dll
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\ja\DevExpress.Xpf.Core.v17.1.resources.dll
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\ru\DevExpress.Xpf.Core.v17.1.resources.dll
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\de\DevExpress.Xpf.Grid.v17.1.Core.resources.dll
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\es\DevExpress.Xpf.Grid.v17.1.Core.resources.dll
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\ja\DevExpress.Xpf.Grid.v17.1.Core.resources.dll
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\ru\DevExpress.Xpf.Grid.v17.1.Core.resources.dll
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe.licenses
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\DevExpress.Xpf.Controls.v17.1.dll
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\DevExpress.Xpf.Controls.v17.1.xml
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\de\DevExpress.Xpf.Controls.v17.1.resources.dll
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\es\DevExpress.Xpf.Controls.v17.1.resources.dll
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\ja\DevExpress.Xpf.Controls.v17.1.resources.dll
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\ru\DevExpress.Xpf.Controls.v17.1.resources.dll
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\DevExpress.Xpf.LayoutControl.v17.1.dll
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\DevExpress.Xpf.LayoutControl.v17.1.xml
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\de\DevExpress.Xpf.LayoutControl.v17.1.resources.dll
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\es\DevExpress.Xpf.LayoutControl.v17.1.resources.dll
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\ja\DevExpress.Xpf.LayoutControl.v17.1.resources.dll
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\ru\DevExpress.Xpf.LayoutControl.v17.1.resources.dll
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\DevExpress.Charts.v17.1.Core.dll
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\DevExpress.Xpf.Charts.v17.1.dll
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\DevExpress.Xpf.Printing.v17.1.dll
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\DevExpress.Xpf.Ribbon.v17.1.dll
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\DevExpress.Xpf.DocumentViewer.v17.1.Core.dll
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\DevExpress.Xpf.Docking.v17.1.dll
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\DevExpress.Xpf.Layout.v17.1.Core.dll
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\DevExpress.Office.v17.1.Core.dll
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\DevExpress.Xpf.Charts.v17.1.xml
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\DevExpress.Xpf.Printing.v17.1.xml
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\DevExpress.Xpf.Ribbon.v17.1.xml
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\DevExpress.Xpf.DocumentViewer.v17.1.Core.xml
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\DevExpress.Xpf.Docking.v17.1.xml
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\DevExpress.Xpf.Layout.v17.1.Core.xml
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\DevExpress.Office.v17.1.Core.xml
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\de\DevExpress.Xpf.Charts.v17.1.resources.dll
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\es\DevExpress.Xpf.Charts.v17.1.resources.dll
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\ja\DevExpress.Xpf.Charts.v17.1.resources.dll
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\ru\DevExpress.Xpf.Charts.v17.1.resources.dll
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\de\DevExpress.Xpf.Printing.v17.1.resources.dll
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\es\DevExpress.Xpf.Printing.v17.1.resources.dll
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\ja\DevExpress.Xpf.Printing.v17.1.resources.dll
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\ru\DevExpress.Xpf.Printing.v17.1.resources.dll
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\de\DevExpress.Xpf.Ribbon.v17.1.resources.dll
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\es\DevExpress.Xpf.Ribbon.v17.1.resources.dll
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\ja\DevExpress.Xpf.Ribbon.v17.1.resources.dll
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\ru\DevExpress.Xpf.Ribbon.v17.1.resources.dll
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\de\DevExpress.Xpf.DocumentViewer.v17.1.Core.resources.dll
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\es\DevExpress.Xpf.DocumentViewer.v17.1.Core.resources.dll
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\ja\DevExpress.Xpf.DocumentViewer.v17.1.Core.resources.dll
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\ru\DevExpress.Xpf.DocumentViewer.v17.1.Core.resources.dll
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\de\DevExpress.Xpf.Docking.v17.1.resources.dll
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\es\DevExpress.Xpf.Docking.v17.1.resources.dll
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\ja\DevExpress.Xpf.Docking.v17.1.resources.dll
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\ru\DevExpress.Xpf.Docking.v17.1.resources.dll
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\Syncfusion.GridCommon.Wpf.dll
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\Syncfusion.Linq.Base.dll
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\Syncfusion.Shared.Wpf.dll
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\Syncfusion.GridCommon.Wpf.xml
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\Syncfusion.Linq.Base.xml
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\Syncfusion.Shared.Wpf.xml
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\Syncfusion.Tools.Wpf.dll
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\Syncfusion.Tools.Wpf.xml

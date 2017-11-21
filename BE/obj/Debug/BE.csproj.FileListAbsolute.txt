@@ -1,0 +1,39 @@
+c:\users\arielma\documents\visual studio 2015\Projects\WpfApplication1\BE\bin\Debug\BE.dll
+c:\users\arielma\documents\visual studio 2015\Projects\WpfApplication1\BE\bin\Debug\BE.pdb
+c:\users\arielma\documents\visual studio 2015\Projects\WpfApplication1\BE\obj\Debug\BE.csprojResolveAssemblyReference.cache
+c:\users\arielma\documents\visual studio 2015\Projects\WpfApplication1\BE\obj\Debug\BE.dll
+c:\users\arielma\documents\visual studio 2015\Projects\WpfApplication1\BE\obj\Debug\BE.pdb
+Z:\ArielMalka\WpfApplication1\BE\bin\Debug\BE.dll
+Z:\ArielMalka\WpfApplication1\BE\bin\Debug\BE.pdb
+Z:\ArielMalka\WpfApplication1\BE\obj\Debug\BE.csprojResolveAssemblyReference.cache
+Z:\ArielMalka\WpfApplication1\BE\obj\Debug\BE.dll
+Z:\ArielMalka\WpfApplication1\BE\obj\Debug\BE.pdb
+D:\Ariel_projects\download\WpfApplication1\WpfApplication1\BE\bin\Debug\BE.dll
+D:\Ariel_projects\download\WpfApplication1\WpfApplication1\BE\bin\Debug\BE.pdb
+D:\Ariel_projects\download\WpfApplication1\WpfApplication1\BE\obj\Debug\BE.csprojResolveAssemblyReference.cache
+D:\Ariel_projects\download\WpfApplication1\WpfApplication1\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+D:\Ariel_projects\download\WpfApplication1\WpfApplication1\BE\obj\Debug\BE.dll
+D:\Ariel_projects\download\WpfApplication1\WpfApplication1\BE\obj\Debug\BE.pdb
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\BE\bin\Debug\BE.dll.config
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\BE\bin\Debug\BE.dll
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\BE\bin\Debug\BE.pdb
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\BE\bin\Debug\EntityFramework.dll
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\BE\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\BE\bin\Debug\Newtonsoft.Json.dll
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\BE\bin\Debug\EntityFramework.xml
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\BE\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\BE\bin\Debug\Newtonsoft.Json.xml
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\BE\obj\Debug\BE.dll
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\BE\obj\Debug\BE.pdb
+C:\Users\YER\Desktop\WpfApplication1\BE\bin\Debug\BE.dll.config
+C:\Users\YER\Desktop\WpfApplication1\BE\bin\Debug\BE.dll
+C:\Users\YER\Desktop\WpfApplication1\BE\bin\Debug\BE.pdb
+C:\Users\YER\Desktop\WpfApplication1\BE\bin\Debug\EntityFramework.dll
+C:\Users\YER\Desktop\WpfApplication1\BE\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\YER\Desktop\WpfApplication1\BE\bin\Debug\Newtonsoft.Json.dll
+C:\Users\YER\Desktop\WpfApplication1\BE\bin\Debug\EntityFramework.xml
+C:\Users\YER\Desktop\WpfApplication1\BE\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\YER\Desktop\WpfApplication1\BE\bin\Debug\Newtonsoft.Json.xml
+C:\Users\YER\Desktop\WpfApplication1\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\YER\Desktop\WpfApplication1\BE\obj\Debug\BE.dll
+C:\Users\YER\Desktop\WpfApplication1\BE\obj\Debug\BE.pdb

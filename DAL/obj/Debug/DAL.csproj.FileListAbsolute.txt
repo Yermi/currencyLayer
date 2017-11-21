@@ -1,0 +1,68 @@
+c:\users\arielma\documents\visual studio 2015\Projects\WpfApplication1\DAL\bin\Debug\DAL.dll
+c:\users\arielma\documents\visual studio 2015\Projects\WpfApplication1\DAL\bin\Debug\DAL.pdb
+c:\users\arielma\documents\visual studio 2015\Projects\WpfApplication1\DAL\bin\Debug\BE.dll
+c:\users\arielma\documents\visual studio 2015\Projects\WpfApplication1\DAL\bin\Debug\BE.pdb
+c:\users\arielma\documents\visual studio 2015\Projects\WpfApplication1\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+c:\users\arielma\documents\visual studio 2015\Projects\WpfApplication1\DAL\obj\Debug\DAL.dll
+c:\users\arielma\documents\visual studio 2015\Projects\WpfApplication1\DAL\obj\Debug\DAL.pdb
+Z:\ArielMalka\WpfApplication1\DAL\bin\Debug\DAL.dll
+Z:\ArielMalka\WpfApplication1\DAL\bin\Debug\DAL.pdb
+Z:\ArielMalka\WpfApplication1\DAL\bin\Debug\BE.dll
+Z:\ArielMalka\WpfApplication1\DAL\bin\Debug\BE.pdb
+Z:\ArielMalka\WpfApplication1\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+Z:\ArielMalka\WpfApplication1\DAL\obj\Debug\DAL.dll
+Z:\ArielMalka\WpfApplication1\DAL\obj\Debug\DAL.pdb
+D:\Ariel_projects\download\WpfApplication1\WpfApplication1\DAL\bin\Debug\DAL.dll
+D:\Ariel_projects\download\WpfApplication1\WpfApplication1\DAL\bin\Debug\DAL.pdb
+D:\Ariel_projects\download\WpfApplication1\WpfApplication1\DAL\bin\Debug\BE.dll
+D:\Ariel_projects\download\WpfApplication1\WpfApplication1\DAL\bin\Debug\BE.pdb
+D:\Ariel_projects\download\WpfApplication1\WpfApplication1\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Ariel_projects\download\WpfApplication1\WpfApplication1\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Ariel_projects\download\WpfApplication1\WpfApplication1\DAL\obj\Debug\DAL.dll
+D:\Ariel_projects\download\WpfApplication1\WpfApplication1\DAL\obj\Debug\DAL.pdb
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\DAL\bin\Debug\DAL.dll.config
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\DAL\bin\Debug\DAL.dll
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\DAL\bin\Debug\DAL.pdb
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\DAL\bin\Debug\BE.dll
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\DAL\bin\Debug\EntityFramework.dll
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\DAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\DAL\bin\Debug\BE.pdb
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\DAL\bin\Debug\EntityFramework.xml
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\DAL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\DAL\obj\Debug\DAL.dll
+C:\Users\יהודה\Downloads\currencylayer-dot-net\download\WpfApplication1\WpfApplication1\DAL\obj\Debug\DAL.pdb
+C:\Users\YER\Desktop\WpfApplication1\DAL\bin\Debug\DAL.dll.config
+C:\Users\YER\Desktop\WpfApplication1\DAL\bin\Debug\DAL.dll
+C:\Users\YER\Desktop\WpfApplication1\DAL\bin\Debug\DAL.pdb
+C:\Users\YER\Desktop\WpfApplication1\DAL\bin\Debug\BE.dll
+C:\Users\YER\Desktop\WpfApplication1\DAL\bin\Debug\EntityFramework.dll
+C:\Users\YER\Desktop\WpfApplication1\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\YER\Desktop\WpfApplication1\DAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\YER\Desktop\WpfApplication1\DAL\bin\Debug\BE.pdb
+C:\Users\YER\Desktop\WpfApplication1\DAL\bin\Debug\BE.dll.config
+C:\Users\YER\Desktop\WpfApplication1\DAL\bin\Debug\EntityFramework.xml
+C:\Users\YER\Desktop\WpfApplication1\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\YER\Desktop\WpfApplication1\DAL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\YER\Desktop\WpfApplication1\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\YER\Desktop\WpfApplication1\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\YER\Desktop\WpfApplication1\DAL\obj\Debug\DAL.dll
+C:\Users\YER\Desktop\WpfApplication1\DAL\obj\Debug\DAL.pdb
+C:\Users\YER\Desktop\PROJECT\DAL\bin\Debug\DAL.dll.config
+C:\Users\YER\Desktop\PROJECT\DAL\bin\Debug\DAL.dll
+C:\Users\YER\Desktop\PROJECT\DAL\bin\Debug\DAL.pdb
+C:\Users\YER\Desktop\PROJECT\DAL\bin\Debug\BE.dll
+C:\Users\YER\Desktop\PROJECT\DAL\bin\Debug\EntityFramework.dll
+C:\Users\YER\Desktop\PROJECT\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\YER\Desktop\PROJECT\DAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\YER\Desktop\PROJECT\DAL\bin\Debug\BE.pdb
+C:\Users\YER\Desktop\PROJECT\DAL\bin\Debug\BE.dll.config
+C:\Users\YER\Desktop\PROJECT\DAL\bin\Debug\EntityFramework.xml
+C:\Users\YER\Desktop\PROJECT\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\YER\Desktop\PROJECT\DAL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\YER\Desktop\PROJECT\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\YER\Desktop\PROJECT\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\YER\Desktop\PROJECT\DAL\obj\Debug\DAL.dll
+C:\Users\YER\Desktop\PROJECT\DAL\obj\Debug\DAL.pdb
