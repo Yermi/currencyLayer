@@ -69,6 +69,4 @@ namespace mainWindow.Models
         public string FromTo { get; set; }
         public List<Values> values { get; set; }
     }
-
-
 }
